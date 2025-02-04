@@ -1,0 +1,3 @@
+[submodule "eza-gitignore-bug-sub-project"]
+	path = eza-gitignore-bug-sub-project
+	url = https://github.com/gaykitty/eza-gitignore-bug-sub-project.git
